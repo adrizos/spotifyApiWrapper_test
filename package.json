@@ -1,0 +1,22 @@
+{
+  "name": "spotifyapiwrapper_test",
+  "version": "1.0.0",
+  "description": "testing out the Node.js Spotify API wrapper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrizos/spotifyApiWrapper_test.git"
+  },
+  "author": "Alex Drizos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrizos/spotifyApiWrapper_test/issues"
+  },
+  "homepage": "https://github.com/adrizos/spotifyApiWrapper_test#readme",
+  "dependencies": {
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
